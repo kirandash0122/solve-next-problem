@@ -10,7 +10,4 @@ the backend is available [here](https://github.com/kirandash0122/solve-next-prob
 
 
 ## Demo
-https://user-images.githubusercontent.com/65273880/109387709-0043de80-7929-11eb-8478-0e1733815108.mp4
-![Screenshot (238)](https://user-images.githubusercontent.com/65273880/109282782-00b67980-7844-11eb-9b99-6452aaf956e6.png)
-![Screenshot (239)](https://user-images.githubusercontent.com/65273880/109282799-057b2d80-7844-11eb-979f-5ca5127edf33.png)
-![Screenshot (240)](https://user-images.githubusercontent.com/65273880/109282836-1035c280-7844-11eb-9f30-25c834a941a4.png)
+the video demo of the working can be foun d [here](https://user-images.githubusercontent.com/65273880/109387709-0043de80-7929-11eb-8478-0e1733815108.mp4)
