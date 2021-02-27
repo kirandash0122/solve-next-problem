@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+  }
+  
+  html {
+    background-color: #4a5891;
+    scroll-behavior: smooth;
+  }
+  
+  body{
+    background-color: #4a5891;
+    scrollbar-width: thin;
+  }
+  
+  body::-webkit-scrollbar{
+    width: 10px;
+    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+  }

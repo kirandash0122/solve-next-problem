@@ -1,0 +1,36 @@
+.timer-field{
+    padding-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-width: 310px;
+    align-items: center;
+    justify-content: center;
+}
+
+.problem-fields{
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.problem-fields table, .problem-fields div{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.problem-fields .field{
+    text-align: left;
+    padding-right: 1.5em;
+}
+
+.problem-fields .data{
+    text-align: right;
+}
+.num{
+    font-size: 30px;
+}
+
+.numside{
+    color: whitesmoke!important;
+}

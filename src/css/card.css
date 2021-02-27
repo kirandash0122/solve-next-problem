@@ -1,0 +1,52 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    margin: 4px;
+    height: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5%;
+}
+.medium, .easy ,.hard ,.solveNext{
+    background-color:  #28323C;
+}
+.card:hover{
+    justify-content: flex-start;
+}
+.easy:hover{
+    background-color: #00AA0C;
+}
+
+.medium:hover{
+    background-color: #d4a610;
+}
+
+.hard:hover{
+    background-color: #af1f1f;
+}
+.solveNext:hover{
+    background-color: #3E56E6;
+}
+
+.card a{
+    text-decoration: none;
+    color: inherit;
+}
+
+@keyframes hideCard{
+    from {transform: scale(1);}
+    to {transform: scale(0);}
+}
+
+.hiddenCard{
+    animation: hideCard 0.3s forwards;
+}
+
+.buttons{
+    float: right;
+    width: 40%;
+    position: relative;
+    top: 5px;
+}
